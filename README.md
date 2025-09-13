@@ -1,19 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<h3 align="center">A passionate Backend developer</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=200&section=header&text=Mehedi%20Hasan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-<h3 align="left">Connect with me:</h3>
+# Hi there, I'm Mehedi Hasan 👋  
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://https://www.facebook.com/md.m.mozumder.9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mehedihasan21903) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehedihasan21903@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mehedi-programming&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mehedi-programming&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-programming&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
+- 🌱 I’m currently learning **Django & Django REST Framework**  
+- 👨‍💻 I work with **Python | Django | DRF | SQL**  
+- 💡 Passionate about building **APIs and backend systems**  
+- 🎯 2025 Goal: Contribute to **Open Source Projects**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mehedi-programming&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff)
+![DRF](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat&logo=django&logoColor=white&logoWidth=20)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
+
+---
+
+## 📈 GitHub Stats
+![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehedi-Hasan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-Hasan&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mehedi-Hasan&theme=radical)  
+
+---
+
+## 🔥 Featured Projects
+- [Blood Donation Management System](https://github.com/Mehedi-Hasan/Blood-Donation-System)  
+- [Django REST API Example](https://github.com/Mehedi-Hasan/DRF-API)  
+
+---
+
+## 📫 Connect With Me
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/md.m.mozumder.9)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedihasan21903@gmail.com)  
+
+---
+
+![snake gif](https://github.com/Mehedi-Hasan/Mehedi-Hasan/blob/output/github-contribution-grid-snake.svg)
