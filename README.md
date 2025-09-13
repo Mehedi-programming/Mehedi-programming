@@ -6,21 +6,6 @@
 ⚡ Passionate about **APIs, Databases, and Scalable Backend Systems**  
 🎯 2025 Goal: Contribute to **Open Source Projects**  
 
----
-
-## 🔥 Dynamic GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-Hasan&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-Hasan&layout=compact&theme=radical" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi-Hasan&theme=radical" height="165">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mehedi-Hasan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -48,12 +33,5 @@
 ## 🐍 Contribution Snake  
 ![snake gif](https://github.com/Mehedi-Hasan/Mehedi-Hasan/blob/output/github-contribution-grid-snake.svg)
 
-## 📊 GitHub Stats (Dynamic)
-
-![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehedi-Hasan&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-Hasan&layout=compact&langs_count=8&theme=radical)
-
-![Metrics](https://github-readme-stats.vercel.app/api?username=Mehedi-Hasan&show_icons=true&theme=radical&count_private=true)
 
 
