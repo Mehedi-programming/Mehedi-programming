@@ -47,3 +47,16 @@
 
 ## 🐍 Contribution Snake  
 ![snake gif](https://github.com/Mehedi-Hasan/Mehedi-Hasan/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 GitHub Stats (Dynamic)
+
+![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehedi-Hasan&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-Hasan&layout=compact&langs_count=8&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mehedi-Hasan&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehedi-Hasan&theme=react-dark&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mehedi-Hasan&theme=radical&no-frame=true&row=1&column=6)
+
