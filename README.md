@@ -26,6 +26,8 @@
 <p align="center">
   <a href="https://www.facebook.com/md.m.mozumder.9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="mailto:mehedihasan21903@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://medium.com/@mehedihasan21903"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
 </p>
 
 ---
